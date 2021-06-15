@@ -5,7 +5,7 @@ Become a Product Manager | Learn the Skills & Get the Job
 URL : https://www.udemy.com/course/become-a-product-manager-learn-the-skills-get-a-job/learn/lecture/4749558?components=buy_button%2Cdiscount_expiration%2Cgift_this_course%2Cpurchase%2Cdeal_badge%2Credeem_coupon#overview
 
 # Course index
-Section 1: Before Starting the Course 
+[Section 1: Before Starting the Course ](https://github.com/tdao2021/udemycourse/blob/main/section1)
 
 Section 2: Introduction to Product Management 
 
